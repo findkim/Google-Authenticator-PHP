@@ -1,5 +1,5 @@
-run php locally
-php -S localhost:8000
-http://localhost:8000/TestGoogleAuthenticator.php
+run php locally<br/>
+php -S localhost:8000<br/>
+http://localhost:8000/TestGoogleAuthenticator.php<br/>
 
 *requires sqlite3
